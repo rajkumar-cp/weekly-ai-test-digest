@@ -1,0 +1,37 @@
+Subject: Weekly Test Automation Summary - 16 Nov to 20 Nov 2026
+From: weekly-digest@example.com
+To: your-test-email@example.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+
+Hello Team,
+
+Here is the weekly test automation execution summary.
+
+Reporting period: 16 November 2026 to 20 November 2026
+
+1. EXECUTION OVERVIEW
+
+Total tests executed : 650
+Passed tests         : 600
+Failed tests         : 50
+Pass rate            : 92.31%
+Failure rate         : 7.69%
+
+2. AI-GENERATED OBSERVATIONS
+
+1. Overall, 600 of 650 tests passed (92.31%), with 50 failures (7.69%).
+2. Daily failures decreased steadily from 20 on November 16 to zero on Novemb=
+er 20; the daily pass rate rose from 83.3% to 100%.
+3. Daily test volume increased from 120 to 140 over the same period.
+
+
+3. ATTENTION REQUIRED
+
+Please review the failed test cases and investigate
+recurring failures where applicable.
+
+Regards,
+Weekly AI Test Execution Digest
